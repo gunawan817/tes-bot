@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://nft-bots.io)
+[![Product Name Screen Shot][product-screenshot]]
 
 This Repository was created by the NFT-Bot-Team and hosts some sample code on how to retrieve Sales and Listings Events from Opensea.
 The idea was to create a easy to read and understand code, which can be used to build your own Project around NFT Sales and Listings events.
@@ -35,7 +35,7 @@ The idea was to create a easy to read and understand code, which can be used to 
 Please let us know if you need support with the code on our homepage or Discord Channel.
 
 If you feel like not investing to much into self coding your NFT Sales and Listings bot for all the marketplaces out there feel free to get in
-touch with us on our [Homepage](https://nft-bots.io).
+touch with us.
 
 We've already built a bot Monitoring all Sales and Listings Events for most NFT Marketplaces out there:
 * Opensea
@@ -138,17 +138,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-[Join our Discord](https://discord.com/invite/heTBaMvJyU)
-
-Project Link: [https://github.com/NFT-Bots/NFT-Discord-Twitter-Bot](https://github.com/NFT-Bots/NFT-Discord-Twitter-Bot)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
