@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 This Repository was created by the NFT-Bot-Team and hosts some sample code on how to retrieve Sales and Listings Events from Opensea.
 The idea was to create a easy to read and understand code, which can be used to build your own Project around NFT Sales and Listings events.
